@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage" : "https://github.com/adineshinnov/testdemo",
+  "homepage" : "https://github.com/adineshinnov/hello-world",
   "scripts": {
     "lint": "eslint .",
     "dev": "vite",
